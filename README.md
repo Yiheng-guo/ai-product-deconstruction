@@ -1,4 +1,9 @@
-# 🔍 AI 产品拆解工作流 Skill
+<p align="center">
+  <img src="assets/logo.png" width="120" alt="Logo">
+</p>
+
+<h1 align="center">AI 产品拆解工作流 Skill</h1>
+
 
 > 把"拆解一个 AI 产品 / Multi-Agent 平台"沉淀为可复用、可验证的标准工作流。
 >
